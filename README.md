@@ -1,7 +1,7 @@
 # Hi 👋 I'm Van
 Co-Founder IM
 🚀 Web3 researcher  
-🔎 esearch on Defi Perp & Stake
+🔎 Research on Defi Perp & Stake
 💻 Learning blockchain & crypto infrastructure
 
 ## Interests
